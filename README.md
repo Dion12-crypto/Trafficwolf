@@ -1,4 +1,7 @@
 # Trafficwolf
+
+https://traffic-wolf.static.domains/
+
 Traffic Wolf - Unlimited Human-like Traffic Generator Bot - 1
 
 ![1749989966858966139903879111241](https://github.com/user-attachments/assets/905ce4a4-c021-4856-b222-316990916453)
@@ -34,3 +37,4 @@ Simple Installation
 Safe to use
 Free Updates
 Lifetime License
+https://traffic-wolf.static.domains/
